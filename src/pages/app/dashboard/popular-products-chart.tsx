@@ -12,8 +12,6 @@ const data = [
   { product: 'Frango frito', amount: 26 },
 ]
 
-// começamos a criar o gráfico de pizza
-
 const COLORS = [
   colors.sky[500],
   colors.amber[500],
