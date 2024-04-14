@@ -32,7 +32,7 @@ export function RevenueChart() {
       <CardHeader className="flex-row items-center justify-between pb-8">
         <div className="space-y-1">
           <CardTitle className="text-base font-medium">
-            Receitas no periodo
+            Receitas no período
           </CardTitle>
           <CardDescription>Receita diária no período</CardDescription>
         </div>
